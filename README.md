@@ -30,8 +30,8 @@
 <h2 align="center">
 🤝 Connect with me
   <p>
-    <a href="mailto:quinojuan.@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/juan-carlos-quino-78424122b"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+    <a href="mailto:matikoziupa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/matías-koziupa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
   </p>
 </h2>
 
