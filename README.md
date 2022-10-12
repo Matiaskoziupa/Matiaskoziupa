@@ -1,7 +1,7 @@
 <div align="center">
   
-  <h1> Hi, I'm Juan Quino!
-  <a href="https://github.com/quinojuan" target="_self">
+  <h1> Hi, I'm Matias Koziupa!
+  <a href="https://github.com/Matiaskoziupa" target="_self">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </a>
   </h1>
