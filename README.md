@@ -16,12 +16,11 @@
 </div>
 
 <pre>
-  💻 I am a Full Stack Developer and computer technician
+  💻 I am a Full Stack Developer
   📚 I have been using computers since I was 12 years old.
   📝 I have a strong interest in develop web app
   🌱 I’m currently learning everything 🤣
-  🥅 2022 Goals: work from home
-  🌟 Main languages: JavaScript
+  🌟 Main languages: JavaScript, Typescript
   🤔 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity</b>, this is <a href=# target="_blank">MY RESUME.</a>
 </pre>
 
